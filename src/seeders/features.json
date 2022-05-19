@@ -1,0 +1,102 @@
+[{
+	"name": "15 Minutes session",
+	"plan": ["free"],
+	"sortOrder": 0,
+	"status": "active"
+}, 
+{
+	"name": "Pre counselling with HiEd Counselor",
+	"plan": ["free", "basic", "standard", "premium"],
+	"sortOrder": 1,
+	"status": "active"
+},
+{
+	"name": "Student profile creation",
+	"plan": ["free", "basic", "standard", "premium"],
+	"sortOrder": 2,
+	"status": "active"
+},
+{
+	"name": "Evaluate the case for confirmed admission",
+	"plan": ["free", "basic", "standard", "premium"],
+	"sortOrder": 3,
+	"status": "active"
+},
+{
+	"name": "1 Hour Session",
+	"plan": ["basic", "standard", "premium"],
+	"sortOrder": 4,
+	"status": "active"
+}, 
+{
+	"name": "1-1 counselling with Preeti Tanwar",
+	"plan": ["basic", "standard", "premium"],
+	"sortOrder": 5,
+	"status": "active"
+},
+{
+	"name": "Personalized College Recommendations",
+	"plan": ["basic", "standard", "premium"],
+	"sortOrder": 6,
+	"status": "active"
+},
+{
+	"name": "Career Coaching",
+	"plan": ["basic", "standard", "premium"],
+	"sortOrder": 7,
+	"status": "active"
+},
+{
+	"name": "Predictive science based personalised career counselling",
+	"plan": ["basic", "standard", "premium"],
+	"sortOrder": 8,
+	"status": "active"
+},
+{
+	"name": "Evaluate the case for full/partial scholarship & admission",
+	"plan": ["basic", "standard", "premium"],
+	"sortOrder": 9,
+	"status": "active"
+},
+{
+	"name": "Evaluate the case for CPT Internship with HiEd or HiEd clients",
+	"plan": ["basic", "standard", "premium"],
+	"sortOrder": 10,
+	"status": "active"
+},
+{
+	"name": "Mapping for 100% guaranteed admission",
+	"plan": ["basic", "standard", "premium"],
+	"sortOrder": 11,
+	"status": "active"
+},
+{
+	"name": "Essay support",
+	"plan": ["standard", "premium"],
+	"sortOrder": 12,
+	"status": "active"
+},
+{
+	"name": "Admission application submission to guaranteed 2 Colleges",
+	"plan": ["standard", "premium"],
+	"sortOrder": 13,
+	"status": "active"
+},
+{
+	"name": "Transcripts Evaluation for Admission Application",
+	"plan": ["standard", "premium"],
+	"sortOrder": 14,
+	"status": "active"
+},
+{
+	"name": "SAT/GRE/TOEFL Fees and Preparation",
+	"plan": ["premium"],
+	"sortOrder": 15,
+	"status": "active"
+},
+{
+	"name": "USCIS Interview Prep",
+	"plan": ["premium"],
+	"sortOrder": 16,
+	"status": "active"
+}]

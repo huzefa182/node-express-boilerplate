@@ -1,0 +1,384 @@
+{
+	"swagger": "2.0",
+	"info": {
+		"description": "Harmony",
+		"version": "1.0.0",
+		"title": "Harmony",
+		"contact": {
+			"email": "apiteam@swagger.io"
+		},
+		"license": {
+			"name": "Apache 2.0",
+			"url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+		}
+	},
+	"host": "localhost:3060",
+	"basePath": "",
+	"tags": [
+		{
+			"name": "Auth",
+			"description": "Login, Logout, Signup ForgetPassword Api's"
+		},
+		{
+			"name": "others",
+			"description": "Countries, state, institution"
+		}
+	],
+	"schemes": [
+		"http"
+	],
+	"securityDefinitions": {
+		"api_key": {
+			"type": "apiKey",
+			"name": "authorization",
+			"in": "header"
+		}
+	},
+	"paths": {
+		"/auth/registration": {
+			"post": {
+				"tags": [
+					"Auth"
+				],
+				"summary": "signup",
+				"description": "User Registration",
+				"operationId": "",
+				"consumes": [
+					"application/json"
+				],
+				"produces": [
+					"application/json"
+				],
+				"parameters": [
+					{
+						"name": "Parameters",
+						"in": "body",
+						"description": "register user in Database",
+						"required": true,
+						"schema": {
+							"$ref": "#/definitions/signUp"
+						}
+					}
+				],
+				"responses": {}
+			}
+		},
+		"/auth/login" : {
+			"post": {
+				"tags": [
+					"Auth"
+				],
+				"summary": "Login",
+				"description": "User Login",
+				"operationId": "",
+				"consumes": [
+					"application/json"
+				],
+				"produces": [
+					"application/json"
+				],
+				"parameters": [
+					{
+						"name": "Parameters",
+						"in": "body",
+						"description": "Pass Credentials for login",
+						"required": true,
+						"schema": {
+							"$ref": "#/definitions/login"
+						}
+					}
+				],
+				"responses": {}
+			}
+		},
+		"/auth/forget-password" : {
+			"post": {
+				"tags": [
+					"Auth"
+				],
+				"summary": "Forgot Password",
+				"description": "",
+				"operationId": "",
+				"consumes": [
+					"application/json"
+				],
+				"produces": [
+					"application/json"
+				],
+				"parameters": [
+					{
+						"name": "Parameters",
+						"in": "body",
+						"description": "Pass Credentials for Forgot Password",
+						"required": true,
+						"schema": {
+							"$ref": "#/definitions/forget-password"
+						}
+					}
+				],
+				"responses": {}
+			}
+		},
+		"reset-password" : {
+			"post": {
+				"tags": [
+					"Auth"
+				],
+				"summary": "Reset Password",
+				"description": "",
+				"operationId": "",
+				"consumes": [
+					"application/json"
+				],
+				"produces": [
+					"application/json"
+				],
+				"parameters": [
+					{
+						"name": "Parameters",
+						"in": "body",
+						"description": "Pass Credentials for Reset Password",
+						"required": true,
+						"schema": {
+							"$ref": "#/definitions/reset-password"
+						}
+					}
+				],
+				"responses": {}
+			}
+		},
+		"/auth/logout" : {
+			"post": {
+				"tags": [
+					"Auth"
+				],
+				"summary": "logout",
+				"description": "",
+				"operationId": "",
+				"consumes": [
+					"application/json"
+				],
+				"produces": [
+					"application/json"
+				],
+				"security": [
+					{
+						"api_key": []
+					}
+				],
+				"parameters": [
+					{
+						"name": "Parameters",
+						"in": "body",
+						"description": "Pass Credentials for logout",
+						"required": true,
+						"schema": {
+							"$ref": "#/definitions/logout"
+						}
+					}
+				],
+				"responses": {}
+			}
+		},
+		"/other/getCountry" : {
+			"get": {
+				"tags": [
+					"others"
+				],
+				"summary": "Country",
+				"description": "",
+				"operationId": "",
+				"consumes": [
+					"application/json"
+				],
+				"produces": [
+					"application/json"
+				],
+				"responses": {}
+			}
+		},
+		"/other/getStates?countryId=25" : {
+			"get": {
+				"tags": [
+					"others"
+				],
+				"summary": "state",
+				"description": "",
+				"operationId": "",
+				"consumes": [
+					"application/json"
+				],
+				"produces": [
+					"application/json"
+				],
+				"responses": {}
+			}
+		},
+		"/institution/getInstitutions" : {
+			"get": {
+				"tags": [
+					"others"
+				],
+				"summary": "institutution",
+				"description": "",
+				"operationId": "",
+				"consumes": [
+					"application/json"
+				],
+				"produces": [
+					"application/json"
+				],
+				"responses": {}
+			}
+		}
+	},
+	"definitions": {
+		"signUp": {
+			"properties": {
+				"firstName": {
+					"required": [
+						"true"
+					],
+					"type": "string",
+					"example": "Alex"
+				},
+				"lastName": {
+					"required": [
+						"true"
+					],
+					"type": "string",
+					"example": "Ted"
+				},
+				"email": {
+					"required": [
+						"true"
+					],
+					"type": "string",
+					"example": "student@yopmail.com"
+				},
+				"mobileNumber": {
+					"required": [
+						"true"
+					],
+					"type": "number",
+					"example": 1234567890
+				},
+				"country": {
+					"required": [
+						"true"
+					],
+					"type": "string",
+					"example": "India"
+				},
+				"state": {
+					"required": [
+						"true"
+					],
+					"type": "string",
+					"example": "Madhya Pradesh"
+				},
+				"countryCode": {
+					"required": [
+						"true"
+					],
+					"type": "number",
+					"example": 91
+				},
+				"zipCode": {
+					"required": [
+						"true"
+					],
+					"type": "number",
+					"example": 452006
+				},
+				"password": {
+					"required": [
+						"true"
+					],
+					"type": "string",
+					"example": "Abc@1234"
+				},
+				"roleId": {
+					"required": [
+						"true"
+					],
+					"type": "number",
+					"example": 1
+				},
+				"userType": {
+					"required": [
+						"true"
+					],
+					"type": "string",
+					"example": "student"
+				}
+				
+			}
+		},
+		"login" : {
+			"properties": {
+				"email": {
+					"required": [
+						"true"
+					],
+					"type": "string",
+					"example": "student@yopmail.com"
+				},
+				"password": {
+					"required": [
+						"true"
+					],
+					"type": "string",
+					"example": "Abc@1234"
+				},
+				"roleId": {
+					"required": [
+						"true"
+					],
+					"type": "number",
+					"example": 1
+				}
+			}
+		},
+		"forget-password" : {
+			"properties": {
+				"email": {
+					"required": [
+						"true"
+					],
+					"type": "string",
+					"example": "student@yopmail.com"
+				}
+			}
+		},
+		"reset-password" : {
+			"properties": {
+				"email": {
+					"required": [
+						"true"
+					],
+					"type": "string",
+					"example": "U2FsdGVkX1+bsFLm+4f3/kVE6NXPs+wAYfHYiSGhkWMCJAGwwIx4GGuwa+jA6yfL"
+				},
+				"password": {
+					"required": [
+						"true"
+					],
+					"type": "string",
+					"example": "Abc@1234"
+				}
+			}
+		},
+		"logout" : {
+			"properties": {
+				"userid": {
+					"required": [
+						"true"
+					],
+					"type": "number",
+					"example":13
+				}
+			}
+		}
+	}
+}

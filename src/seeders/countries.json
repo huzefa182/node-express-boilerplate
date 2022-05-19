@@ -1,0 +1,1977 @@
+[{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130a3"
+  },
+  "countryId": 1,
+  "name": "Afghanistan",
+  "shortName": "AF",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130a5"
+  },
+  "countryId": 3,
+  "name": "Algeria",
+  "shortName": "DZ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130a4"
+  },
+  "countryId": 2,
+  "name": "Albania",
+  "shortName": "AL",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130a6"
+  },
+  "countryId": 4,
+  "name": "American Samoa",
+  "shortName": "AS",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130a7"
+  },
+  "countryId": 5,
+  "name": "Andorra",
+  "shortName": "AD",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130a8"
+  },
+  "countryId": 6,
+  "name": "Angola",
+  "shortName": "AO",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130a9"
+  },
+  "countryId": 7,
+  "name": "Anguilla",
+  "shortName": "AI",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130aa"
+  },
+  "countryId": 8,
+  "name": "Antarctica",
+  "shortName": "AQ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ab"
+  },
+  "countryId": 9,
+  "name": "Antigua And Barbuda",
+  "shortName": "AG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ac"
+  },
+  "countryId": 10,
+  "name": "Argentina",
+  "shortName": "AR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ad"
+  },
+  "countryId": 11,
+  "name": "Armenia",
+  "shortName": "AM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ae"
+  },
+  "countryId": 12,
+  "name": "Aruba",
+  "shortName": "AW",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130af"
+  },
+  "countryId": 13,
+  "name": "Australia",
+  "shortName": "AU",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130b0"
+  },
+  "countryId": 14,
+  "name": "Austria",
+  "shortName": "AT",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130b1"
+  },
+  "countryId": 15,
+  "name": "Azerbaijan",
+  "shortName": "AZ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130b2"
+  },
+  "countryId": 16,
+  "name": "Bahamas The",
+  "shortName": "BS",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130b3"
+  },
+  "countryId": 17,
+  "name": "Bahrain",
+  "shortName": "BH",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130b4"
+  },
+  "countryId": 18,
+  "name": "Bangladesh",
+  "shortName": "BD",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130b5"
+  },
+  "countryId": 19,
+  "name": "Barbados",
+  "shortName": "BB",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130b6"
+  },
+  "countryId": 20,
+  "name": "Belarus",
+  "shortName": "BY",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130b7"
+  },
+  "countryId": 21,
+  "name": "Belgium",
+  "shortName": "BE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130b8"
+  },
+  "countryId": 22,
+  "name": "Belize",
+  "shortName": "BZ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130b9"
+  },
+  "countryId": 23,
+  "name": "Benin",
+  "shortName": "BJ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ba"
+  },
+  "countryId": 24,
+  "name": "Bermuda",
+  "shortName": "BM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130bb"
+  },
+  "countryId": 25,
+  "name": "Bhutan",
+  "shortName": "BT",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130bc"
+  },
+  "countryId": 26,
+  "name": "Bolivia",
+  "shortName": "BO",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130bd"
+  },
+  "countryId": 27,
+  "name": "Bosnia and Herzegovina",
+  "shortName": "BA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130be"
+  },
+  "countryId": 28,
+  "name": "Botswana",
+  "shortName": "BW",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130bf"
+  },
+  "countryId": 29,
+  "name": "Bouvet Island",
+  "shortName": "BV",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130c0"
+  },
+  "countryId": 30,
+  "name": "Brazil",
+  "shortName": "BR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130c1"
+  },
+  "countryId": 31,
+  "name": "British Indian Ocean Territory",
+  "shortName": "IO",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130c2"
+  },
+  "countryId": 32,
+  "name": "Brunei",
+  "shortName": "BN",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130c3"
+  },
+  "countryId": 33,
+  "name": "Bulgaria",
+  "shortName": "BG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130c5"
+  },
+  "countryId": 35,
+  "name": "Burundi",
+  "shortName": "BI",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130c4"
+  },
+  "countryId": 34,
+  "name": "Burkina Faso",
+  "shortName": "BF",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130c7"
+  },
+  "countryId": 37,
+  "name": "Cameroon",
+  "shortName": "CM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130c6"
+  },
+  "countryId": 36,
+  "name": "Cambodia",
+  "shortName": "KH",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130c8"
+  },
+  "countryId": 38,
+  "name": "Canada",
+  "shortName": "CA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130c9"
+  },
+  "countryId": 39,
+  "name": "Cape Verde",
+  "shortName": "CV",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ca"
+  },
+  "countryId": 40,
+  "name": "Cayman Islands",
+  "shortName": "KY",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130cb"
+  },
+  "countryId": 41,
+  "name": "Central African Republic",
+  "shortName": "CF",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130cd"
+  },
+  "countryId": 43,
+  "name": "Chile",
+  "shortName": "CL",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130cc"
+  },
+  "countryId": 42,
+  "name": "Chad",
+  "shortName": "TD",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130cf"
+  },
+  "countryId": 45,
+  "name": "Christmas Island",
+  "shortName": "CX",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ce"
+  },
+  "countryId": 44,
+  "name": "China",
+  "shortName": "CN",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130d0"
+  },
+  "countryId": 46,
+  "name": "Cocos (Keeling) Islands",
+  "shortName": "CC",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130d1"
+  },
+  "countryId": 47,
+  "name": "Colombia",
+  "shortName": "CO",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130d3"
+  },
+  "countryId": 49,
+  "name": "Congo",
+  "shortName": "CG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130d2"
+  },
+  "countryId": 48,
+  "name": "Comoros",
+  "shortName": "KM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130d4"
+  },
+  "countryId": 50,
+  "name": "Congo The Democratic Republic Of The",
+  "shortName": "CD",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130d5"
+  },
+  "countryId": 51,
+  "name": "Cook Islands",
+  "shortName": "CK",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130d6"
+  },
+  "countryId": 52,
+  "name": "Costa Rica",
+  "shortName": "CR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130d7"
+  },
+  "countryId": 53,
+  "name": "Cote D''Ivoire (Ivory Coast)",
+  "shortName": "CI",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130d8"
+  },
+  "countryId": 54,
+  "name": "Croatia (Hrvatska)",
+  "shortName": "HR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130da"
+  },
+  "countryId": 56,
+  "name": "Cyprus",
+  "shortName": "CY",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130d9"
+  },
+  "countryId": 55,
+  "name": "Cuba",
+  "shortName": "CU",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130db"
+  },
+  "countryId": 57,
+  "name": "Czech Republic",
+  "shortName": "CZ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130dc"
+  },
+  "countryId": 58,
+  "name": "Denmark",
+  "shortName": "DK",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130dd"
+  },
+  "countryId": 59,
+  "name": "Djibouti",
+  "shortName": "DJ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130de"
+  },
+  "countryId": 60,
+  "name": "Dominica",
+  "shortName": "DM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130df"
+  },
+  "countryId": 61,
+  "name": "Dominican Republic",
+  "shortName": "DO",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130e1"
+  },
+  "countryId": 63,
+  "name": "Ecuador",
+  "shortName": "EC",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130e0"
+  },
+  "countryId": 62,
+  "name": "East Timor",
+  "shortName": "TP",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130e2"
+  },
+  "countryId": 64,
+  "name": "Egypt",
+  "shortName": "EG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130e3"
+  },
+  "countryId": 65,
+  "name": "El Salvador",
+  "shortName": "SV",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130e5"
+  },
+  "countryId": 67,
+  "name": "Eritrea",
+  "shortName": "ER",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130e4"
+  },
+  "countryId": 66,
+  "name": "Equatorial Guinea",
+  "shortName": "GQ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130e6"
+  },
+  "countryId": 68,
+  "name": "Estonia",
+  "shortName": "EE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130e7"
+  },
+  "countryId": 69,
+  "name": "Ethiopia",
+  "shortName": "ET",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130e8"
+  },
+  "countryId": 70,
+  "name": "External Territories of Australia",
+  "shortName": "XA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130e9"
+  },
+  "countryId": 71,
+  "name": "Falkland Islands",
+  "shortName": "FK",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ea"
+  },
+  "countryId": 72,
+  "name": "Faroe Islands",
+  "shortName": "FO",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130eb"
+  },
+  "countryId": 73,
+  "name": "Fiji Islands",
+  "shortName": "FJ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ec"
+  },
+  "countryId": 74,
+  "name": "Finland",
+  "shortName": "FI",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ed"
+  },
+  "countryId": 75,
+  "name": "France",
+  "shortName": "FR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ee"
+  },
+  "countryId": 76,
+  "name": "French Guiana",
+  "shortName": "GF",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ef"
+  },
+  "countryId": 77,
+  "name": "French Polynesia",
+  "shortName": "PF",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130f0"
+  },
+  "countryId": 78,
+  "name": "French Southern Territories",
+  "shortName": "TF",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130f1"
+  },
+  "countryId": 79,
+  "name": "Gabon",
+  "shortName": "GA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130f2"
+  },
+  "countryId": 80,
+  "name": "Gambia The",
+  "shortName": "GM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130f3"
+  },
+  "countryId": 81,
+  "name": "Georgia",
+  "shortName": "GE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130f4"
+  },
+  "countryId": 82,
+  "name": "Germany",
+  "shortName": "DE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130f5"
+  },
+  "countryId": 83,
+  "name": "Ghana",
+  "shortName": "GH",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130f6"
+  },
+  "countryId": 84,
+  "name": "Gibraltar",
+  "shortName": "GI",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130f7"
+  },
+  "countryId": 85,
+  "name": "Greece",
+  "shortName": "GR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130f8"
+  },
+  "countryId": 86,
+  "name": "Greenland",
+  "shortName": "GL",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130f9"
+  },
+  "countryId": 87,
+  "name": "Grenada",
+  "shortName": "GD",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130fa"
+  },
+  "countryId": 88,
+  "name": "Guadeloupe",
+  "shortName": "GP",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130fb"
+  },
+  "countryId": 89,
+  "name": "Guam",
+  "shortName": "GU",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130fc"
+  },
+  "countryId": 90,
+  "name": "Guatemala",
+  "shortName": "GT",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130fd"
+  },
+  "countryId": 91,
+  "name": "Guernsey and Alderney",
+  "shortName": "XU",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130fe"
+  },
+  "countryId": 92,
+  "name": "Guinea",
+  "shortName": "GN",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a130ff"
+  },
+  "countryId": 93,
+  "name": "Guinea-Bissau",
+  "shortName": "GW",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13100"
+  },
+  "countryId": 94,
+  "name": "Guyana",
+  "shortName": "GY",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13101"
+  },
+  "countryId": 95,
+  "name": "Haiti",
+  "shortName": "HT",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13102"
+  },
+  "countryId": 96,
+  "name": "Heard and McDonald Islands",
+  "shortName": "HM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13103"
+  },
+  "countryId": 97,
+  "name": "Honduras",
+  "shortName": "HN",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13104"
+  },
+  "countryId": 98,
+  "name": "Hong Kong S.A.R.",
+  "shortName": "HK",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13105"
+  },
+  "countryId": 99,
+  "name": "Hungary",
+  "shortName": "HU",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13106"
+  },
+  "countryId": 100,
+  "name": "Iceland",
+  "shortName": "IS",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13107"
+  },
+  "countryId": 101,
+  "name": "India",
+  "shortName": "IN",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13108"
+  },
+  "countryId": 102,
+  "name": "Indonesia",
+  "shortName": "ID",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13109"
+  },
+  "countryId": 103,
+  "name": "Iran",
+  "shortName": "IR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1310a"
+  },
+  "countryId": 104,
+  "name": "Iraq",
+  "shortName": "IQ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1310b"
+  },
+  "countryId": 105,
+  "name": "Ireland",
+  "shortName": "IE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1310c"
+  },
+  "countryId": 106,
+  "name": "Israel",
+  "shortName": "IL",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1310d"
+  },
+  "countryId": 107,
+  "name": "Italy",
+  "shortName": "IT",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1310e"
+  },
+  "countryId": 108,
+  "name": "Jamaica",
+  "shortName": "JM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1310f"
+  },
+  "countryId": 109,
+  "name": "Japan",
+  "shortName": "JP",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13110"
+  },
+  "countryId": 110,
+  "name": "Jersey",
+  "shortName": "XJ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13111"
+  },
+  "countryId": 111,
+  "name": "Jordan",
+  "shortName": "JO",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13112"
+  },
+  "countryId": 112,
+  "name": "Kazakhstan",
+  "shortName": "KZ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13113"
+  },
+  "countryId": 113,
+  "name": "Kenya",
+  "shortName": "KE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13114"
+  },
+  "countryId": 114,
+  "name": "Kiribati",
+  "shortName": "KI",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13115"
+  },
+  "countryId": 115,
+  "name": "Korea North",
+  "shortName": "KP",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13116"
+  },
+  "countryId": 116,
+  "name": "Korea South",
+  "shortName": "KR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13118"
+  },
+  "countryId": 118,
+  "name": "Kyrgyzstan",
+  "shortName": "KG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13117"
+  },
+  "countryId": 117,
+  "name": "Kuwait",
+  "shortName": "KW",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13119"
+  },
+  "countryId": 119,
+  "name": "Laos",
+  "shortName": "LA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1311a"
+  },
+  "countryId": 120,
+  "name": "Latvia",
+  "shortName": "LV",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1311b"
+  },
+  "countryId": 121,
+  "name": "Lebanon",
+  "shortName": "LB",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1311c"
+  },
+  "countryId": 122,
+  "name": "Lesotho",
+  "shortName": "LS",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1311d"
+  },
+  "countryId": 123,
+  "name": "Liberia",
+  "shortName": "LR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1311f"
+  },
+  "countryId": 125,
+  "name": "Liechtenstein",
+  "shortName": "LI",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1311e"
+  },
+  "countryId": 124,
+  "name": "Libya",
+  "shortName": "LY",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13120"
+  },
+  "countryId": 126,
+  "name": "Lithuania",
+  "shortName": "LT",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13121"
+  },
+  "countryId": 127,
+  "name": "Luxembourg",
+  "shortName": "LU",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13123"
+  },
+  "countryId": 129,
+  "name": "Macedonia",
+  "shortName": "MK",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13124"
+  },
+  "countryId": 130,
+  "name": "Madagascar",
+  "shortName": "MG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13122"
+  },
+  "countryId": 128,
+  "name": "Macau S.A.R.",
+  "shortName": "MO",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13125"
+  },
+  "countryId": 131,
+  "name": "Malawi",
+  "shortName": "MW",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13126"
+  },
+  "countryId": 132,
+  "name": "Malaysia",
+  "shortName": "MY",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13128"
+  },
+  "countryId": 134,
+  "name": "Mali",
+  "shortName": "ML",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13127"
+  },
+  "countryId": 133,
+  "name": "Maldives",
+  "shortName": "MV",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13129"
+  },
+  "countryId": 135,
+  "name": "Malta",
+  "shortName": "MT",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1312a"
+  },
+  "countryId": 136,
+  "name": "Man (Isle of)",
+  "shortName": "XM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1312b"
+  },
+  "countryId": 137,
+  "name": "Marshall Islands",
+  "shortName": "MH",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1312c"
+  },
+  "countryId": 138,
+  "name": "Martinique",
+  "shortName": "MQ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1312d"
+  },
+  "countryId": 139,
+  "name": "Mauritania",
+  "shortName": "MR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1312e"
+  },
+  "countryId": 140,
+  "name": "Mauritius",
+  "shortName": "MU",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1312f"
+  },
+  "countryId": 141,
+  "name": "Mayotte",
+  "shortName": "YT",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13130"
+  },
+  "countryId": 142,
+  "name": "Mexico",
+  "shortName": "MX",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13131"
+  },
+  "countryId": 143,
+  "name": "Micronesia",
+  "shortName": "FM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13132"
+  },
+  "countryId": 144,
+  "name": "Moldova",
+  "shortName": "MD",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13133"
+  },
+  "countryId": 145,
+  "name": "Monaco",
+  "shortName": "MC",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13134"
+  },
+  "countryId": 146,
+  "name": "Mongolia",
+  "shortName": "MN",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13136"
+  },
+  "countryId": 148,
+  "name": "Morocco",
+  "shortName": "MA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13138"
+  },
+  "countryId": 150,
+  "name": "Myanmar",
+  "shortName": "MM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13137"
+  },
+  "countryId": 149,
+  "name": "Mozambique",
+  "shortName": "MZ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13135"
+  },
+  "countryId": 147,
+  "name": "Montserrat",
+  "shortName": "MS",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13139"
+  },
+  "countryId": 151,
+  "name": "Namibia",
+  "shortName": "NA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1313a"
+  },
+  "countryId": 152,
+  "name": "Nauru",
+  "shortName": "NR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1313b"
+  },
+  "countryId": 153,
+  "name": "Nepal",
+  "shortName": "NP",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1313c"
+  },
+  "countryId": 154,
+  "name": "Netherlands Antilles",
+  "shortName": "AN",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1313d"
+  },
+  "countryId": 155,
+  "name": "Netherlands The",
+  "shortName": "NL",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1313f"
+  },
+  "countryId": 157,
+  "name": "New Zealand",
+  "shortName": "NZ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13140"
+  },
+  "countryId": 158,
+  "name": "Nicaragua",
+  "shortName": "NI",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1313e"
+  },
+  "countryId": 156,
+  "name": "New Caledonia",
+  "shortName": "NC",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13142"
+  },
+  "countryId": 160,
+  "name": "Nigeria",
+  "shortName": "NG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13141"
+  },
+  "countryId": 159,
+  "name": "Niger",
+  "shortName": "NE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13143"
+  },
+  "countryId": 161,
+  "name": "Niue",
+  "shortName": "NU",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13144"
+  },
+  "countryId": 162,
+  "name": "Norfolk Island",
+  "shortName": "NF",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13145"
+  },
+  "countryId": 163,
+  "name": "Northern Mariana Islands",
+  "shortName": "MP",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13146"
+  },
+  "countryId": 164,
+  "name": "Norway",
+  "shortName": "NO",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13147"
+  },
+  "countryId": 165,
+  "name": "Oman",
+  "shortName": "OM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13148"
+  },
+  "countryId": 166,
+  "name": "Pakistan",
+  "shortName": "PK",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13149"
+  },
+  "countryId": 167,
+  "name": "Palau",
+  "shortName": "PW",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1314a"
+  },
+  "countryId": 168,
+  "name": "Palestinian Territory Occupied",
+  "shortName": "PS",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1314d"
+  },
+  "countryId": 171,
+  "name": "Paraguay",
+  "shortName": "PY",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1314b"
+  },
+  "countryId": 169,
+  "name": "Panama",
+  "shortName": "PA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1314c"
+  },
+  "countryId": 170,
+  "name": "Papua new Guinea",
+  "shortName": "PG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1314e"
+  },
+  "countryId": 172,
+  "name": "Peru",
+  "shortName": "PE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13150"
+  },
+  "countryId": 174,
+  "name": "Pitcairn Island",
+  "shortName": "PN",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1314f"
+  },
+  "countryId": 173,
+  "name": "Philippines",
+  "shortName": "PH",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13151"
+  },
+  "countryId": 175,
+  "name": "Poland",
+  "shortName": "PL",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13152"
+  },
+  "countryId": 176,
+  "name": "Portugal",
+  "shortName": "PT",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13153"
+  },
+  "countryId": 177,
+  "name": "Puerto Rico",
+  "shortName": "PR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13154"
+  },
+  "countryId": 178,
+  "name": "Qatar",
+  "shortName": "QA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13155"
+  },
+  "countryId": 179,
+  "name": "Reunion",
+  "shortName": "RE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13156"
+  },
+  "countryId": 180,
+  "name": "Romania",
+  "shortName": "RO",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13157"
+  },
+  "countryId": 181,
+  "name": "Russia",
+  "shortName": "RU",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13158"
+  },
+  "countryId": 182,
+  "name": "Rwanda",
+  "shortName": "RW",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13159"
+  },
+  "countryId": 183,
+  "name": "Saint Helena",
+  "shortName": "SH",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1315a"
+  },
+  "countryId": 184,
+  "name": "Saint Kitts And Nevis",
+  "shortName": "KN",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1315b"
+  },
+  "countryId": 185,
+  "name": "Saint Lucia",
+  "shortName": "LC",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1315c"
+  },
+  "countryId": 186,
+  "name": "Saint Pierre and Miquelon",
+  "shortName": "PM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1315d"
+  },
+  "countryId": 187,
+  "name": "Saint Vincent And The Grenadines",
+  "shortName": "VC",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1315e"
+  },
+  "countryId": 188,
+  "name": "Samoa",
+  "shortName": "WS",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1315f"
+  },
+  "countryId": 189,
+  "name": "San Marino",
+  "shortName": "SM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13160"
+  },
+  "countryId": 190,
+  "name": "Sao Tome and Principe",
+  "shortName": "ST",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13161"
+  },
+  "countryId": 191,
+  "name": "Saudi Arabia",
+  "shortName": "SA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13162"
+  },
+  "countryId": 192,
+  "name": "Senegal",
+  "shortName": "SN",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13163"
+  },
+  "countryId": 193,
+  "name": "Serbia",
+  "shortName": "RS",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13164"
+  },
+  "countryId": 194,
+  "name": "Seychelles",
+  "shortName": "SC",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13165"
+  },
+  "countryId": 195,
+  "name": "Sierra Leone",
+  "shortName": "SL",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13166"
+  },
+  "countryId": 196,
+  "name": "Singapore",
+  "shortName": "SG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13167"
+  },
+  "countryId": 197,
+  "name": "Slovakia",
+  "shortName": "SK",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13168"
+  },
+  "countryId": 198,
+  "name": "Slovenia",
+  "shortName": "SI",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13169"
+  },
+  "countryId": 199,
+  "name": "Smaller Territories of the UK",
+  "shortName": "XG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1316b"
+  },
+  "countryId": 201,
+  "name": "Somalia",
+  "shortName": "SO",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1316a"
+  },
+  "countryId": 200,
+  "name": "Solomon Islands",
+  "shortName": "SB",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1316c"
+  },
+  "countryId": 202,
+  "name": "South Africa",
+  "shortName": "ZA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1316e"
+  },
+  "countryId": 204,
+  "name": "South Sudan",
+  "shortName": "SS",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1316f"
+  },
+  "countryId": 205,
+  "name": "Spain",
+  "shortName": "ES",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1316d"
+  },
+  "countryId": 203,
+  "name": "South Georgia",
+  "shortName": "GS",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13171"
+  },
+  "countryId": 207,
+  "name": "Sudan",
+  "shortName": "SD",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13170"
+  },
+  "countryId": 206,
+  "name": "Sri Lanka",
+  "shortName": "LK",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13172"
+  },
+  "countryId": 208,
+  "name": "Suriname",
+  "shortName": "SR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13173"
+  },
+  "countryId": 209,
+  "name": "Svalbard And Jan Mayen Islands",
+  "shortName": "SJ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13175"
+  },
+  "countryId": 211,
+  "name": "Sweden",
+  "shortName": "SE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13174"
+  },
+  "countryId": 210,
+  "name": "Swaziland",
+  "shortName": "SZ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13176"
+  },
+  "countryId": 212,
+  "name": "Switzerland",
+  "shortName": "CH",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13177"
+  },
+  "countryId": 213,
+  "name": "Syria",
+  "shortName": "SY",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13178"
+  },
+  "countryId": 214,
+  "name": "Taiwan",
+  "shortName": "TW",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13179"
+  },
+  "countryId": 215,
+  "name": "Tajikistan",
+  "shortName": "TJ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1317a"
+  },
+  "countryId": 216,
+  "name": "Tanzania",
+  "shortName": "TZ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1317b"
+  },
+  "countryId": 217,
+  "name": "Thailand",
+  "shortName": "TH",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1317c"
+  },
+  "countryId": 218,
+  "name": "Togo",
+  "shortName": "TG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1317d"
+  },
+  "countryId": 219,
+  "name": "Tokelau",
+  "shortName": "TK",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1317e"
+  },
+  "countryId": 220,
+  "name": "Tonga",
+  "shortName": "TO",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1317f"
+  },
+  "countryId": 221,
+  "name": "Trinidad And Tobago",
+  "shortName": "TT",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13180"
+  },
+  "countryId": 222,
+  "name": "Tunisia",
+  "shortName": "TN",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13181"
+  },
+  "countryId": 223,
+  "name": "Turkey",
+  "shortName": "TR",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13182"
+  },
+  "countryId": 224,
+  "name": "Turkmenistan",
+  "shortName": "TM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13183"
+  },
+  "countryId": 225,
+  "name": "Turks And Caicos Islands",
+  "shortName": "TC",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13184"
+  },
+  "countryId": 226,
+  "name": "Tuvalu",
+  "shortName": "TV",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13185"
+  },
+  "countryId": 227,
+  "name": "Uganda",
+  "shortName": "UG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13186"
+  },
+  "countryId": 228,
+  "name": "Ukraine",
+  "shortName": "UA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13187"
+  },
+  "countryId": 229,
+  "name": "United Arab Emirates",
+  "shortName": "AE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13188"
+  },
+  "countryId": 230,
+  "name": "United Kingdom",
+  "shortName": "GB",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13189"
+  },
+  "countryId": 231,
+  "name": "United States",
+  "shortName": "US",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1318a"
+  },
+  "countryId": 232,
+  "name": "United States Minor Outlying Islands",
+  "shortName": "UM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1318b"
+  },
+  "countryId": 233,
+  "name": "Uruguay",
+  "shortName": "UY",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1318c"
+  },
+  "countryId": 234,
+  "name": "Uzbekistan",
+  "shortName": "UZ",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1318d"
+  },
+  "countryId": 235,
+  "name": "Vanuatu",
+  "shortName": "VU",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1318e"
+  },
+  "countryId": 236,
+  "name": "Vatican City State (Holy See)",
+  "shortName": "VA",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a1318f"
+  },
+  "countryId": 237,
+  "name": "Venezuela",
+  "shortName": "VE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13192"
+  },
+  "countryId": 240,
+  "name": "Virgin Islands (US)",
+  "shortName": "VI",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13190"
+  },
+  "countryId": 238,
+  "name": "Vietnam",
+  "shortName": "VN",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13191"
+  },
+  "countryId": 239,
+  "name": "Virgin Islands (British)",
+  "shortName": "VG",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13193"
+  },
+  "countryId": 241,
+  "name": "Wallis And Futuna Islands",
+  "shortName": "WF",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13194"
+  },
+  "countryId": 242,
+  "name": "Western Sahara",
+  "shortName": "EH",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13195"
+  },
+  "countryId": 243,
+  "name": "Yemen",
+  "shortName": "YE",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13196"
+  },
+  "countryId": 244,
+  "name": "Yugoslavia",
+  "shortName": "YU",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13197"
+  },
+  "countryId": 245,
+  "name": "Zambia",
+  "shortName": "ZM",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "6100fc2d9f68793040a13198"
+  },
+  "countryId": 246,
+  "name": "Zimbabwe",
+  "shortName": "ZW",
+  "status": "active"
+},{
+  "_id": {
+    "$oid": "61289978e5e80b475ba5ba1d"
+  },
+  "countryId": 247,
+  "name": "Other",
+  "shortName": "Other",
+  "status": "active"
+}]

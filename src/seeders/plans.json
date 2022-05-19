@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "61557e0860057440a47de80f"
+  },
+  "feature": [
+    "15 Minutes session",
+    "Pre counselling with HiEd Counselor",
+    "Student profile creation",
+    "Evaluate the case for confirmed admission"    
+  ],
+  "type": "free",
+  "status": "active",
+  "name": "Free",
+  "description": "",
+  "price": 0,
+  "currency": "USD",
+  "createdAt": {
+    "$date": "2021-09-30T09:06:16.040Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-30T09:06:16.040Z"
+  },
+  "__v": 0,
+  "slug": "free",
+  "icon": "plan/free.svg"
+},{
+  "_id": {
+    "$oid": "6156dfac68d57a3641634eaa"
+  },
+  "feature": [
+    "Pre counselling with HiEd Counselor",
+    "Student profile creation",
+    "Evaluate the case for admission",
+    "1 Hour Session",
+    "1-1 counselling with Preeti Tanwar",
+    "Personalized College Recommendations",
+    "Career Coaching",
+    "Predictive science based personalised career counselling",
+    "Evaluate the case for full/partial scholarship & admission",
+    "Evaluate the case for CPT Internship with HiEd or HiEd clients",
+    "Mapping for 100% guaranteed admission"
+  ],
+  "type": "paid",
+  "status": "active",
+  "name": "Basic",
+  "slug": "basic",
+  "description": "",
+  "price": 200,
+  "currency": "USD",
+  "sortOrder": 1,
+  "createdAt": {
+    "$date": "2021-10-01T10:15:08.971Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-01T10:15:08.971Z"
+  },
+  "__v": 0,
+  "icon": "plan/basic.svg"
+},{
+  "_id": {
+    "$oid": "6156e00b68d57a3641634eac"
+  },
+  "feature": [
+    "Pre counselling with HiEd Counselor",
+    "Student profile creation",
+    "Evaluate the case for admission",
+    "1 Hour Session",
+    "1-1 counselling with Preeti Tanwar",
+    "Personalized College Recommendations",
+    "Career Coaching",
+    "Predictive science based personalised career counselling",
+    "Evaluate the case for full/partial scholarship & admission",
+    "Evaluate the case for CPT Internship with HiEd or HiEd clients",
+    "Mapping for 100% guaranteed admission",
+    "Essay support",
+    "Admission application submission to guaranteed 2 Colleges",
+    "Transcripts Evaluation for Admission Application"
+  ],
+  "type": "paid",
+  "status": "active",
+  "name": "Standard",
+  "slug": "standard",
+  "description": "",
+  "price": 500,
+  "currency": "USD",
+  "sortOrder": 2,
+  "createdAt": {
+    "$date": "2021-10-01T10:16:43.256Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-01T10:16:43.256Z"
+  },
+  "__v": 0,
+  "icon": "plan/standard.svg"
+},{
+  "_id": {
+    "$oid": "6156e05d68d57a3641634eae"
+  },
+  "feature": [
+    "Pre counselling with HiEd Counselor",
+    "Student profile creation",
+    "Evaluate the case for admission",
+    "1 Hour Session",
+    "1-1 counselling with Preeti Tanwar",
+    "Personalized College Recommendations",
+    "Career Coaching",
+    "Predictive science based personalised career counselling",
+    "Evaluate the case for full/partial scholarship & admission",
+    "Evaluate the case for CPT Internship with HiEd or HiEd clients",
+    "Mapping for 100% guaranteed admission",
+    "Essay support",
+    "Admission application submission to guaranteed 2 Colleges",
+    "Transcripts Evaluation for Admission Application",
+    "SAT/GRE/TOEFL Exam Fees and Preparation",
+    "USCIS Interview Prep"
+  ],
+  "type": "paid",
+  "status": "active",
+  "name": "Premium",
+  "slug": "premium",
+  "description": "",
+  "price": 2200,
+  "currency": "USD",
+  "sortOrder": 3,
+  "createdAt": {
+    "$date": "2021-10-01T10:18:05.429Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-01T10:18:05.429Z"
+  },
+  "__v": 0,
+  "icon": "plan/premium.svg"
+}]
